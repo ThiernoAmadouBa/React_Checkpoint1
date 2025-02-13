@@ -1,5 +1,5 @@
 import React from 'react';
-import product from './product';
+import product from '../product';
 
 const Description = () => <p>{product.description}</p>;
 
